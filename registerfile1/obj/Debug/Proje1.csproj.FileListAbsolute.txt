@@ -1,0 +1,56 @@
+C:\Users\Onur\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Onur\source\repos\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Onur\source\repos\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Onur\source\repos\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\bin\Debug\Proje1.exe
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\bin\Debug\Proje1.pdb
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.exe
+C:\Users\EmreAydin\Desktop\Yeni klasör (3)\Proje1\obj\Debug\Proje1.pdb
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\bin\Debug\Database1.mdf
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\bin\Debug\Database1_log.ldf
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\bin\Debug\Proje1.exe
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\bin\Debug\Proje1.pdb
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.exe
+C:\Users\EmreAydin\Desktop\denemeKlasor\Proje1\obj\Debug\Proje1.pdb
+D:\denemeKlasor\Proje1\bin\Debug\Database1.mdf
+D:\denemeKlasor\Proje1\bin\Debug\Database1_log.ldf
+D:\denemeKlasor\Proje1\bin\Debug\Proje1.exe.config
+D:\denemeKlasor\Proje1\bin\Debug\Proje1.exe
+D:\denemeKlasor\Proje1\bin\Debug\Proje1.pdb
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.Form1.resources
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.exe
+D:\denemeKlasor\Proje1\obj\Debug\Proje1.pdb
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\bin\Debug\Database1.mdf
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\bin\Debug\Database1_log.ldf
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Onur\Desktop\ProgramSon\ProjeVsonP1\Proje1\obj\Debug\Proje1.pdb

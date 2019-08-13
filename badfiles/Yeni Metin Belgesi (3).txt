@@ -1,0 +1,54 @@
+  /*
+            if (e.KeyCode == Keys.Enter)
+            {
+
+
+                conn.Open();
+                SqlCommand kmt = new SqlCommand("Select count(Id) from  log_register2 Where Barkod_No='" +textBox1.Text + "'" , conn);
+                kmt.ExecuteNonQuery();
+                conn.Close();
+                int deger = Convert.ToInt32(kmt.ExecuteScalar());
+                MessageBox.Show(deger.ToString());
+
+                if(deger == 0)
+                {
+                    MessageBox.Show("Deðer bulunamadý");
+                }
+                if(deger ==1)
+                {
+                    conn.Open();
+                    SqlCommand kmts = new SqlCommand("Select  Durum from  log_register2 Where Barkod_No='" + textBox1.Text + "'", conn);
+                    kmts.ExecuteNonQuery();
+                    string strd="";
+                    SqlDataReader dr = kmts.ExecuteReader();
+                    if(dr.Read())
+                    {
+                         strd = dr["Durum"].ToString();
+                    }
+                    if(strd == "Okundu")
+                    {
+                        MessageBox.Show("Zaten Okundu");
+                    }
+                    else
+                    { 
+                    conn.Close();
+
+
+
+                    conn.Open();
+                    SqlCommand kmtd = new SqlCommand("Update log_register2 set Durum='Okundu' Where Barkod_No='" + textBox1.Text + "'", conn);
+                    kmt.ExecuteNonQuery();
+                    conn.Close();
+                    DatagridYenile();
+                    }
+
+                }
+
+    
+
+
+
+
+
+            }
+            */
